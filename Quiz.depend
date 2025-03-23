@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1742737617 source:c:\users\krzys\desktop\c++\quiz_game\quiz\main.cpp
+	<iostream>
+	"question.h"
+
+1742736849 source:c:\users\krzys\desktop\c++\quiz_game\quiz\question.cpp
+	<iostream>
+	"question.h"
+	<fstream>
+	<cstdlib>
+
+1742738397 c:\users\krzys\desktop\c++\quiz_game\quiz\question.h
+	<iostream>
+	<cctype>
+

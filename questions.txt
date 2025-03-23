@@ -1,0 +1,30 @@
+1. Jaka jest suma wszystkich liczb od 1 do 100?
+a) 500
+b) 5050
+c) 10000
+d) 2550
+b
+2. W którym roku rozpoczęła się II wojna światowa?
+a) 1914
+b) 1939
+c) 1945
+d) 1923
+b
+3. Jakie jest największe jezioro na świecie pod względem powierzchni?
+a) Jezioro Michigan
+b) Morze Kaspijskie
+c) Jezioro Bajkał
+d) Jezioro Wiktorii
+b
+4. Jak brzmi druga zasada dynamiki Newtona?
+a) Każde działanie ma swoje przeciwdziałanie
+b) Energia nie może być tworzona ani niszczona
+c) F = m * a
+d) Przewodniki przewodzą prąd lepiej niż izolatory
+c
+5. Jaka jest różnica między pamięcią RAM a pamięcią ROM?
+a) RAM przechowuje dane na stałe, a ROM jest ulotna
+b) ROM jest szybsza od RAM
+c) RAM jest ulotna i służy do przechowywania bieżących danych, a ROM zawiera dane stałe
+d) RAM i ROM to to samo
+c
