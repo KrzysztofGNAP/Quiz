@@ -2,6 +2,7 @@
 #include "question.h"
 #include <fstream>
 #include <cstdlib>
+#include <algorithm>
 
 using namespace std;
 
@@ -45,6 +46,7 @@ void question::ask()
     cout<<"______________________"<<endl;
     cout<<"Answear :"<<endl;
     cin>>choice;
+    transform(choice.begin(),choice.end(),choice.begin(),::tolower);
 }
 
 void question::check_answear()
